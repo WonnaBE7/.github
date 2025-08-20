@@ -1,6 +1,6 @@
 <h1 align="left">
   <img src="https://github.com/user-attachments/assets/8f522122-cca1-49c6-8296-2f7cbd3b55f8" 
-       width="30" height="30" alt="logo" style="vertical-align: middle; margin-right: 8px;" />
+       width="30" height="30" alt="logo" style="vertical-align: middle; margin-right: 8" />
   WonnaBE
 </h1>
 
