@@ -18,6 +18,8 @@
 | 프로필 | <img src="https://avatars.githubusercontent.com/u/124684536?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/126760153?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/203580692?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/90364682?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/94686233?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/82856122?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/79030514?v=4" width="100"/> |
 | 역할 | 프론트엔드 | 백엔드 | 백엔드 | 백엔드 | 백엔드 | 백엔드 | 백엔드 |
 
+## 🖥️ 기술 스택
+
 ## 🗓️ 프로젝트 기간 (25.07.09 ~ 25.08.21)
 
 ### 1. 기획(25.07.09 ~ 25.07.22)
