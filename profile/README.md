@@ -1,4 +1,10 @@
-# <div class="flex flex-row items-center justify-center"> <img width="30" height="30" alt="스크린샷 2025-08-16 오후 6 24 17" src="https://github.com/user-attachments/assets/8f522122-cca1-49c6-8296-2f7cbd3b55f8" /> WonnaBE <div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8f522122-cca1-49c6-8296-2f7cbd3b55f8" alt="WonnaBE" width="60" height="60" />
+  <br/>
+  <b>WonnaBE – 목표 기반 자산/소비 관리 서비스</b>
+  <br/>
+  <sub>설정한 목표를 따라 실천하며 미래로 달려가요! 오늘도 화이팅 💪</sub>
+</p>
 
 ## 📌 팀 구성
 
