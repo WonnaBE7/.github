@@ -94,4 +94,67 @@
 - 4.6 시연 영상
 - 4.7 발표 PPT
 
-  
+## 📺 UI 화면 구성
+
+### 1. 마이 페이지
+
+| 로그인/ 회원가입 |
+| :-: |
+|<img width="564" height="553" alt="스크린샷 2025-08-20 오후 4 23 42" src="https://github.com/user-attachments/assets/c91381a7-675a-4993-9183-f126dddddafc" />|
+
+|Nowme 진단/ 추가정보 입력|
+| :-: |
+|<img width="540" height="561" alt="스크린샷 2025-08-20 오후 4 23 53" src="https://github.com/user-attachments/assets/41d09097-67ec-4971-b58d-f38c18baac9c" />|
+
+|WonnaBE 선택/ 히스토리|
+| :-: |
+|<img width="540" height="703" alt="스크린샷 2025-08-20 오후 4 24 03" src="https://github.com/user-attachments/assets/d19beb56-32e7-4a07-aca0-35900c3654e9" />|
+
+|유저 정보 수정/ 마이페이지 메인|
+| :-: |
+|<img width="592" height="595" alt="스크린샷 2025-08-20 오후 4 25 40" src="https://github.com/user-attachments/assets/502ac249-b4bb-40f8-af01-278308b5ca59" />|
+
+### 2. 총 자산/소비
+
+|총 자산 현황/자산 상세 내역/계좌 거래 내역|
+| :-: |
+|<img width="544" height="725" alt="image" src="https://github.com/user-attachments/assets/85d040f9-ac40-41a3-860f-e9f969b928de" />|
+
+|소비 분석/예상 월 소비/오늘의 소비/소비 거래 내역|
+| :-: |
+|<img width="687" height="539" alt="image" src="https://github.com/user-attachments/assets/f5f9529d-5152-4d43-98f1-3255bd4ab86e" />|
+
+### 3. 상품 추천 페이지
+
+|추천 메인 페이지/보유 예적금 상세 모달/보유 카드 상세/보유 보험 상세|
+| :-: |
+|<img width="858" height="616" alt="image" src="https://github.com/user-attachments/assets/16c7115e-5c86-4cbd-a2d0-75f65b0b6889" />|
+
+|관심 상품 페이지/예적금 상세 페이지/보험 상세 페이지/카드 상세 페이지|
+| :-: |
+|<img width="815" height="518" alt="image" src="https://github.com/user-attachments/assets/43c8e3c9-59c1-44ee-a434-09176c98e766" />|
+
+
+### 4. 목표 시뮬레이션
+
+|목표 메인페이지/목표 보고서|
+| :-: |
+|<img width="420" height="619" alt="image" src="https://github.com/user-attachments/assets/58fcb3b6-56cf-4900-83b0-bd1c1eee4083" />|
+
+|목표 시뮬레이션 입력/목표 시뮬레이션 결과|
+| :-: |
+|<img width="683" height="649" alt="image" src="https://github.com/user-attachments/assets/d3e5f04e-6e42-4b31-8f82-cd4c6cb43f44" />|
+
+### 5. 게시판
+
+|게시판 메인페이지/카테고리 페이지|
+| :-: |
+|<img width="430" height="599" alt="image" src="https://github.com/user-attachments/assets/452f9582-486b-4088-b38e-a3b1fe1b45c1" />|
+
+|스크랩한 글 페이지/내가 쓴글 페이지|
+| :-: |
+|<img width="432" height="443" alt="image" src="https://github.com/user-attachments/assets/b12e366d-a822-4dc2-a49c-95a94a86fcbd" />|
+
+|카테고리 상세 페이지/게시글 작성 페이지/게시글 페이지|
+| :-: |
+|<img width="645" height="544" alt="image" src="https://github.com/user-attachments/assets/056a9d0b-e607-4b7b-98a6-e963e9f4abc7" />|
