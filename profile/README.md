@@ -7,7 +7,7 @@
   
 <img width="710" height="399" alt="image" src="https://github.com/user-attachments/assets/5af25561-b0bf-4ed4-9e8b-9a509033e66b" />
 
-## 📋 프로젝트 소개
+## 📋 프로젝트 소개 (KB IT's Your Life 6기)
 
 서비스 소개: WonnaBE와 함께하는 성장 여정
 흩어진 개인 자산을 통합 분석하고 사용자의 금융 성향(NowME)을 진단하여 스스로 설정한 이상적인 워너비(WonnaBE) 달성을 돕는 맞춤형 금융 코칭 플랫폼
@@ -22,7 +22,6 @@
 
 ## 🖥️ 기술 스택
 
-
 ### FE
 | 언어 | 프레임워크 | 스타일링 & 상태관리 | 기타 & 라이브러리 | 배포 |
 | :-: | :-: | :-: | :-: | :-: |
@@ -34,6 +33,10 @@
 | :-: | :-: | :-: | :-: | :-: | :-: |
 |<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" height="40" alt="Java" /> | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" alt="Spring" /> | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40" alt="MySQL" /> <img src="https://mybatis.org/images/mybatis-logo.png" width="70" alt="MyBatis" /> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="40" height="40" alt="Redis" />  | <img width="40" height="40" alt="jwt" src="https://github.com/user-attachments/assets/d36f48e6-d2a6-4b58-9a97-3cb0d3b45b69" />| <img width="40" height="40" alt="gpt" src="https://github.com/user-attachments/assets/01c80489-da8d-4267-9981-f9d7a27bfc84" /> <img width="40" height="40" alt="codefapi" src="https://github.com/user-attachments/assets/fe45b573-b4ed-4be5-9858-ef143d8bdcef" />  | <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" width="40" height="40" alt="Gradle" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40" alt="Amazon EC2" />|
 | Java | Spring | MySQL, MyBatis, Redis | JWT | CodefAPI, ChatGPT API | Gradle, AmazonEC2 |
+
+## ⚙️ 시스템 아키텍처
+<img width="656" height="502" alt="스크린샷 2025-08-20 오후 4 45 38" src="https://github.com/user-attachments/assets/350f404d-5f1c-4310-aa7b-1278e01f162a" />
+
 
 ## 🤝 협업 도구
 
