@@ -1,7 +1,7 @@
 <h1>
   <img
     src="https://github.com/user-attachments/assets/8f522122-cca1-49c6-8296-2f7cbd3b55f8"
-    width="40" height="40" alt="logo" align="absmiddle" />
+    width="30" height="30" alt="logo" align="absmiddle" />
   WonnaBE
 </h1>
 
