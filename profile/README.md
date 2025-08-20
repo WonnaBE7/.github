@@ -1,7 +1,8 @@
 <h1 align="left">
-  <img src="https://github.com/user-attachments/assets/8f522122-cca1-49c6-8296-2f7cbd3b55f8" 
-       width="30" height="30" alt="logo" style="vertical-align: middle; margin-right: 8" />
-  WonnaBE
+  <img src="https://github.com/user-attachments/assets/8f522122-cca1-49c6-8296-2f7cbd3b55f8"
+       width="40" height="40" alt="logo"
+       style="vertical-align: middle; margin-right: 10px;" />
+  <span style="vertical-align: middle;">WonnaBE</span>
 </h1>
 
 <div class="ml-8 mt-2 text-gray-600">
