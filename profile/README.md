@@ -42,6 +42,27 @@
 | <img width="40" height="40" alt="git" src="https://github.com/user-attachments/assets/e6eb93e2-b0a4-43ee-a44d-8a321cc4f35e"  />| <img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" width="40" height="40"/> <br/>  | <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="40" height="40"/> <br/> | <img src="https://static.figma.com/app/icon/1/favicon.png" width="40" height="40" alt="Figma"/> <br/>  |
 
 ## 💾 주요 기술
+- 유저 NowMe 진단 :
+  - 유저의 자산 및 직업을 통해 현 상황 페르소나 부여
+     
+- 유저 WonnaBE 선택 :
+  - 유저가 되고 싶은 투자방향을 정하기
+    
+- 유저 총 자산 분석 :
+  - CodefAPI 연동하여 실 거래내역 조회 및 데이터 수집
+    
+- 유저 소비 상세 내역 조회 :
+  - CodefAPI 연동하여 실 거래내역 조회 및 데이터 수집
+    
+- 유저 정보 기반 상품 추천 :
+  - 유저의 NowMe와 WonnaBE를 통해 카드, 예적금, 보험 상품 추천
+    
+- 유저 목표 시뮬레이션 :
+  - 유저가 카테고리를 선택하여 목표(금액, 기간)를 입력하면 입력한 목표에 해당하는 상품 추천
+    
+- 게시판 :
+  - 같은 워너비를 가졌거나 또 다른 워너비를 가진 유저들간의 정보 공유 및 인기 상품 조회 가능
+
 
 ## 🗓️ 프로젝트 기간 (25.07.09 ~ 25.08.21)
 
