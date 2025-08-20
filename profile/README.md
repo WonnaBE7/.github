@@ -1,7 +1,5 @@
-# <div class="flex flex-row items-center justify-center">
-  <img width="30" height="30" alt="로고" src="https://github.com/user-attachments/assets/8f522122-cca1-49c6-8296-2f7cbd3b55f8" />
-  <span class="ml-2 text-xl font-bold">WonnaBE</span>
-</div>
+<img width="30" height="30" alt="로고" src="https://github.com/user-attachments/assets/8f522122-cca1-49c6-8296-2f7cbd3b55f8" />
+# WonnaBE
 
 <div class="ml-8 mt-2 text-gray-600">
   금융 성향을 진단하고 자산을 분석해, 나만의 목표 달성을 이끄는 맞춤형 금융 코칭 플랫폼 ⭐️
