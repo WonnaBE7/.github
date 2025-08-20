@@ -1,10 +1,11 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8f522122-cca1-49c6-8296-2f7cbd3b55f8" alt="WonnaBE" width="60" height="60" />
-  <br/>
-  <b>WonnaBE – 목표 기반 자산/소비 관리 서비스</b>
-  <br/>
-  <sub>설정한 목표를 따라 실천하며 미래로 달려가요! 오늘도 화이팅 💪</sub>
-</p>
+# <div class="flex flex-row items-center">
+  <img width="30" height="30" alt="로고" src="https://github.com/user-attachments/assets/8f522122-cca1-49c6-8296-2f7cbd3b55f8" />
+  <span class="ml-2 text-xl font-bold">WonnaBE</span>
+</div>
+
+<div class="ml-8 mt-2 text-gray-600">
+  금융 성향을 진단하고 자산을 분석해, 나만의 목표 달성을 이끄는 맞춤형 금융 코칭 플랫폼 ⭐️
+</div>
 
 ## 📌 팀 구성
 
