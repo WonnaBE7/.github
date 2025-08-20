@@ -4,13 +4,13 @@
     width="44" height="44" alt="logo" align="absmiddle" />
   WonnaBE
 </h1>
-
-금융 성향을 진단하고 자산을 분석해, 나만의 목표 달성을 이끄는 맞춤형 금융 코칭 플랫폼 ⭐️
   
 <img width="710" height="399" alt="image" src="https://github.com/user-attachments/assets/5af25561-b0bf-4ed4-9e8b-9a509033e66b" />
 
 ## 📋 프로젝트 소개
 
+서비스 소개: WonnaBE와 함께하는 성장 여정
+흩어진 개인 자산을 통합 분석하고 사용자의 금융 성향(NowME)을 진단하여 스스로 설정한 이상적인 워너비(WonnaBE) 달성을 돕는 맞춤형 금융 코칭 플랫폼
 
 ## 👤 팀 구성
 
@@ -22,17 +22,20 @@
 
 ## 🖥️ 기술 스택
 
+
 ### FE
 | 언어 | 프레임워크 | 스타일링 & 상태관리 | 기타/라이브러리 | 배포 |
 | :-: | :-: | :-: | :-: | :-: |
-
+| <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="40" height="40" alt="TypeScript" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="40" height="40" alt="Vue" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" height="40" alt="Tailwind CSS" /> <img src="https://pinia.vuejs.org/logo.svg" width="40" height="40" alt="Pinia" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" width="40" height="40" alt="Chart.js" /> <img width="40" height="40" alt="pwa-removebg-preview" src="https://github.com/user-attachments/assets/65307f23-c536-4e0f-998a-580a2cd55e4c" /> | <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40" alt="Vercel" /> |
+|TypeScript | Vue | Tailwind CSS & Pinia | Chart.js / PWA| Vercel |
 
 ### BE
 | 언어 | 프레임워크 | 데이터베이스 & ORM | 보안 & 인증 | API/외부 서비스 | 빌드 & 배포 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+|<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" height="40" alt="Java" /> | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" alt="Spring" /> | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40" alt="MySQL" /> <img src="https://mybatis.org/images/mybatis-logo.png" width="70" alt="MyBatis" /> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="40" height="40" alt="Redis" />  | <img width="40" height="40" alt="jwt" src="https://github.com/user-attachments/assets/d36f48e6-d2a6-4b58-9a97-3cb0d3b45b69" />| <img width="40" height="40" alt="gpt" src="https://github.com/user-attachments/assets/01c80489-da8d-4267-9981-f9d7a27bfc84" /> <img width="40" height="40" alt="codefapi" src="https://github.com/user-attachments/assets/fe45b573-b4ed-4be5-9858-ef143d8bdcef" />  | <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" width="40" height="40" alt="Gradle" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40" alt="Amazon EC2" />|
+| Java | Spring | MySQL, MyBatis, Redis | JWT | CodefAPI, ChatGPT API | Gradle, AmazonEC2 |
 
-### 협업
-### 🤝 협업 도구
+## 🤝 협업 도구
 
 | 형상 관리 | 커뮤니케이션 | 서류 작업 | UI 공유 |
 | :-: | :-: | :-: | :-: |
