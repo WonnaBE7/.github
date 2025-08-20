@@ -1,4 +1,4 @@
-# <div class="flex flex-row items-center justify-center"> <img width="50" height="50" alt="스크린샷 2025-08-16 오후 6 24 17" src="https://github.com/user-attachments/assets/8f522122-cca1-49c6-8296-2f7cbd3b55f8" /> WonnaBE <div>
+# <div class="flex flex-row items-center justify-center"> <img width="30" height="30" alt="스크린샷 2025-08-16 오후 6 24 17" src="https://github.com/user-attachments/assets/8f522122-cca1-49c6-8296-2f7cbd3b55f8" /> WonnaBE <div>
 
 ## 📌 팀 구성
 
